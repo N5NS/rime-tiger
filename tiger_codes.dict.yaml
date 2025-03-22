@@ -9,6 +9,7 @@ sort: by_weight
 import_tables:
   - dicts/tigress        # 官方虎词11w+单字
   - dicts/tigress_ci     # 官方虎词
+  - dicts/tigress_3ci     # 官方虎词 - 4码3字词 转 3码3字词
   - dicts/tigress_simp_ci
   - dicts/kaomoji           # Vv进入Kaomoji颜表情
 ...
