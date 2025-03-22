@@ -21,6 +21,8 @@ schema:
   name: "🐯·单·官方"
   schema_id: tiger_code
   version: "2024-10-31"
+  icon: tiger.ico
+  ascii_icon: A.ico
 
 __patch:
   - tiger_code.custom:/patch?

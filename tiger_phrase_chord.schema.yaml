@@ -21,6 +21,8 @@ schema:
   name: "🐯·单句·并击"
   schema_id: tiger_phrase_chord
   version: "2024-12-22"
+  icon: tiger.ico
+  ascii_icon: A.ico
 
 switches:
   - name: ascii_mode

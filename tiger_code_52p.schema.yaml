@@ -21,6 +21,8 @@ schema:
   name: "🐯·单·五二顶"
   schema_id: tiger_code_52p
   version: "2024-12-14"
+  icon: tiger.ico
+  ascii_icon: A.ico
 
 __patch:
   - tiger_code_52p.custom:/patch?

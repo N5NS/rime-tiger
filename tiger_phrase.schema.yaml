@@ -21,6 +21,8 @@ schema:
   name: "🐯·单句"
   schema_id: tiger_phrase
   version: "2024-11-16"
+  icon: tiger.ico
+  ascii_icon: A.ico
 
 __patch:
   - tiger_code.custom:/patch?
