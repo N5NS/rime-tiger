@@ -1,6 +1,6 @@
 # 🐯 Rime『胖虎』输入方案
 
-![zhh](/azydzhh.png){: style="width:15rem; height:auto;"}
+<img src="/azydzhh.png" width="200" alt="zhh">
 
 ## 简介
 
